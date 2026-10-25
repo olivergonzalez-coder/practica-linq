@@ -1,0 +1,8 @@
+# Carpetas generadas
+bin/
+obj/
+.vs/
+
+# Archivos de usuario de Visual Studio
+*.user
+*.suo
